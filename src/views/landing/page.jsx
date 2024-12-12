@@ -1,7 +1,7 @@
 export default function Landing() {
   return (
     <section>
-      <p>Landing</p>
+      <p className="text-blue-500">Landing</p>
     </section>
   );
 }
